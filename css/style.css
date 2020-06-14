@@ -1,0 +1,65 @@
+.header{
+	background: #607D8B;
+	min-height: 80px;
+}
+.p{
+	border :dashed black 10px;
+	font-size: 30px
+}
+.wrapper{
+	border: 5px solid skyblue;
+	overflow: hidden;
+}
+.box1{
+	background: green;
+	width: 58%;
+	min-height: 80px;
+	float: left;
+}
+.box2{
+	background: blue;
+	width: 28%;
+	min-height: 80px;
+	float: left;
+}
+.box3{
+	background: yellow;
+	width: 8%;
+	min-height: 80px;
+	float: left;
+}
+.footer{
+	background: #607D8B;
+	min-height: 80px;
+	}/*clear: left;*/
+
+	.container{}
+	.bx1{
+		background: blue;
+		width: 25%;
+		min-height: 150px;
+		float: left;
+	}
+	.bx2{
+		background: skyblue;
+		width: 25%;
+		min-height: 150px;
+		float: left;
+	}
+	.bx3{
+		background: aqua;
+		width: 25%;
+		min-height: 150px;
+		float: right;
+	}
+	.bx4{
+		background: red;
+		width: 25%;
+		min-height: 150px;
+		float: right;
+	}
+	.foter{
+		background: yellow;
+		min-height: 150px;
+		clear:both;
+	}
